@@ -1,5 +1,8 @@
 # flutter_task_application
 
+Name: Suyash Chamarthy
+BITS WILP CROSS PLATFORM APPLICATION DEVELOPMENT
+2022MT93724
 Application Details
 - The application holds the task details which can be created, updated, or deleted from the application
 - The application allows the user to delete or edit the task with a single click making it quite user-friendly
